@@ -11,7 +11,7 @@ BOT_TOKEN: str = config.tg_bot.token
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
 
-GROUP_ID = -1002284332063
+GROUP_ID = 0
 message_text = "Ссылка на канал http://google.com"
 
 
